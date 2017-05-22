@@ -4,6 +4,10 @@
 
 Official Docker Image With Chinese Localization.
 
+## Docker Pull Command
+
+`docker pull registry.cn-beijing.aliyuncs.com/nunchuk/php:7.1-fpm`
+
 ## Supported tags
 
 * `7.1-fpm-alpine` (7.1.3)
